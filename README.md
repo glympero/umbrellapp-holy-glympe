@@ -9,7 +9,7 @@
   * A.	Install npm modules
     * i.	Npm install για εγκατάσταση των module που βρίσκονται στο αρχειο package.json
     * ii.	Npm build dev για έναρξη του API (Προϋπόθεση να υπάρχει η mongodb βάση και να είναι ενεργοποιημένη (mongod)
-### 2.	ΟΔΗΓΕΙΕΣ ΧΡΗΣΗΣ (με χρηση postman)
+### 2.	ΟΔΗΓΙΕΣ ΧΡΗΣΗΣ (με χρηση postman)
   * A.	Αναζήτηση πόλης  με όνομα ή συντεταγμένες
     * i.	http://localhost:3005/v1/weather/SearchBy/Kathmandu
     * ii.	http://localhost:3005/v1/weather/SearchBy/37.666668/55.683334
