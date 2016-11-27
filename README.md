@@ -8,7 +8,7 @@
   * Download from: https://github.com/glympero/umbrellapp-holy-glympe
   * A.	Install npm modules
     * i.	Npm install για εγκατάσταση των module που βρίσκονται στο αρχειο package.json
-    * ii.	Npm build dev για έναρξη του API (Προϋπόθεση να υπάρχει η mongodb βάση και να είναι ενεργοποιημένη (mongod)
+    * ii.	Npm run dev για έναρξη του API (Προϋπόθεση να υπάρχει η mongodb βάση και να είναι ενεργοποιημένη (mongod)
 ### 2.	ΟΔΗΓΙΕΣ ΧΡΗΣΗΣ (με χρηση postman)
   * A.	Αναζήτηση πόλης  με όνομα ή συντεταγμένες
     * i.	http://localhost:3005/v1/weather/SearchBy/Kathmandu
